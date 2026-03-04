@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Tom
+# Hi there <img src="./_resources/react.gif" alt="React GIF" style="width:50px;height:50px;background-color:transparent"/>, I'm Tom
 
 ## About me
 I'm a computational linguist who loves web development
