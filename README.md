@@ -1,17 +1,20 @@
-# Hi there <img src="./_resources/react.gif" alt="React GIF" style="width:50px;height:50px;background-color:transparent"/>, I'm Tom
+```js
+const tom = {
+  name: "Tom Duranti",
+  role: "Frontend Developer",
+  background: "Computational Linguist",
+  currently: "Mastering React state management",
+  next: "Accessibility",
+  contact: "linkedin.com/in/tomduranti"
+}
+``` 
 
-<a href="https://www.linkedin.com/in/tomduranti/">
-    <img src="./_resources/linkedin.svg" alt="LinkedIn"/>
+## 🛠️ Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,git,figma" />
+</p>
+
+## 📊 GitHub Stats
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=tomduranti&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </a>
-
-## About me
-I'm a computational linguist who loves web development
-
-## I'm currently working on...
-My [second React project](https://github.com/tomduranti/product_list_with_cart) where I am mastering state management and global variables
-
-## 🌱 I’m currently learning ...
-React for the next 1-2 months, then I am focusing on accessibility
-
-## 👯 I’m looking to collaborate on ...
-Oopen source projects relevant to frontend technologies, but not until I am done with learning React!
