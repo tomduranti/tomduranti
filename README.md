@@ -1,5 +1,9 @@
 # Hi there <img src="./_resources/react.gif" alt="React GIF" style="width:50px;height:50px;background-color:transparent"/>, I'm Tom
 
+<a href="https://www.linkedin.com/in/tomduranti/">
+    <img src="./_resources/linkedin.svg" alt="LinkedIn"/>
+</a>
+
 ## About me
 I'm a computational linguist who loves web development
 
