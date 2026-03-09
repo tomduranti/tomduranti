@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=console.log(%22Hello,%20world!%20I%27m%20Tom%22)&fontSize=48&animation=fadeIn&fontColor=fff)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=100&text=console.log(%22Hello,%20world!%20I%27m%20Tom%22)&fontSize=48&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=console.log(%22Hello,%20world!%20I%27m%20Tom%22)&fontSize=48&animation=fadeIn&fontColor=000000"/>
+</picture>
+
 ---
 
 <a href="https://www.linkedin.com/in/tomduranti/">
