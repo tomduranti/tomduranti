@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=console.log(%22Hello,%20world!%20I%27m%20Tom%22)&fontSize=45&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=console.log(%22Hello,%20world!%20I%27m%20Tom%22)&fontSize=48&animation=fadeIn)
 ---
 
 <a href="https://www.linkedin.com/in/tomduranti/">
@@ -15,10 +15,8 @@
 - 🛠️ Mastering React, in particular state management, components, forms, and routing
 - 💬 I'd love to connect to talk about web dev
 
-When I am not writing code, I dive into some philosophy book (lately I'm much so into Wittgenstein). Both philosophy and programming make me feel like this (sometimes) ->
-<img src='./_resources/homer_is_a_programmer.gif'>
-
 ### My stack
+<br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70"/>
@@ -30,4 +28,4 @@ When I am not writing code, I dive into some philosophy book (lately I'm much so
 </div>
 
 ### My stats
-![GitHub Card](https://githubcard.com/tomduranti.svg?d=Wih__ruA)
+![GitHub Card](https://githubcard.com/tomduranti.svg?d=Hrp3pWwn)
