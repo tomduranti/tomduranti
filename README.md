@@ -16,7 +16,7 @@
   I'm building my portfolio to land my first frontend job. I fell in love with web development as I am inspired by bringing an idea from my head to the screen. My goal to is make my projects as accessible and responsive as possible for all users.
 
 - 🌱 Building my portfolio to land my first frontend job
-- 🛠️ Mastering React, in particular state management, components, forms, and routing
+- 🛠️ Currently working on a full stack [web app](https://github.com/tomduranti/entertainment_web_app)
 - 💬 I'd love to connect to talk about web dev
 
 ### My stack
@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="70" height="70"/>
 </div>
 
 ### My stats
