@@ -16,7 +16,7 @@
   I'm building my portfolio to land my first frontend job. I fell in love with web development as I am inspired by bringing an idea from my head to the screen. My goal to is make my projects as accessible and responsive as possible for all users.
 
 - 🌱 Building my portfolio to land my first frontend job
-- 🛠️ Currently working on a full stack [web app](https://github.com/tomduranti/entertainment_web_app)
+- 🛠️ Just finished v1 of my [web app](https://github.com/tomduranti/entertainment_web_app), thinking about hat project to develop next
 - 💬 I'd love to connect to talk about web dev
 
 ### My stack
