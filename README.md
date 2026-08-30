@@ -5,13 +5,13 @@
 
 ---
 
-### I'm Tom, yet another web developer!
+### I'm Tom, yet another web developer
 
 I started this web dev github in 2025 because I love to build things for the web. After juggling many uninspiring jobs, I realized I wanted to master the art of web dev and since last year I didn't stop reading, studying, and coding.
 
-I released two projects that I am pround of: [mosaic](https://tomduranti.github.io/mosaic/home), a web app to scroll and watch movies, and [pollen](https://tomduranti.github.io/pollen/) to monitor pollens in a place of your choice.
+I released two projects that I am proud of: [mosaic](https://tomduranti.github.io/mosaic/home), a web app to scroll and watch movies, and [pollen](https://tomduranti.github.io/pollen/) to monitor pollens in a place of your choice.
 
- I am up to getting a JS certificate and fiddling around with my personal website, which I will start coding soon!
+ I am up to getting a React certificate and coding my personal website, which will be released soon.
 
 ### My stack
 <table>
