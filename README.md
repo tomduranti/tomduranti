@@ -11,7 +11,9 @@ I started this web dev github in 2025 because I love to build things for the web
 
 I released two projects that I am proud of: [mosaic](https://tomduranti.github.io/mosaic/home), a web app to scroll and watch movies, and [pollen](https://tomduranti.github.io/pollen/) to monitor pollens in a place of your choice.
 
- I am up to getting a React certificate and coding my personal website, which will be released soon.
+You can check my main projects in my [website](https://tomduranti.com).
+
+ I am up to getting a React certificate.
 
 ### My stack
 <table>
